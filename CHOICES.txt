@@ -1,10 +1,10 @@
 CHOICES
 
-First Choice: ____
+
+First Choice: 
 Second Choice:
 Third Choice:
 Fourth Choice:
 Fifth Choice:
 Sixth Choice:
-Seventh Choice:
-Eigth Choice: 1
+Seventh Choice: 1
