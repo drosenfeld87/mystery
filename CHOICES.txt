@@ -5,5 +5,5 @@ First Choice:
 Second Choice:
 Third Choice:
 Fourth Choice:
-Fifth Choice: 3
-Sixth Choice: 
+Fifth Choice:
+Sixth Choice: 2
